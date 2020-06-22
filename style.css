@@ -1,0 +1,18 @@
+#search {
+    background-color: #fff;
+    width: 500px;
+    padding-left: 13px;
+    margin: auto;
+    margin-top: 50px;
+}
+
+button {
+    margin-top: 50px;
+    margin-left: 690px;
+}
+
+#thumbnail {
+    border-radius: 50%;
+    margin-left: 540px;
+    margin-top: 30px;
+}
